@@ -16,7 +16,11 @@ vue2全家桶（vue、vuex、vue-router）、axios、Es6、Animate.css、Webpack
 - 登陆、注册功能
 
 ## 效果
-![image](https://github.com/zcj298084359/Vue-travel/tree/master/src/assets/images/01.jpg)
+![image](https://github.com/zcj298084359/Vue-travel/blob/master/src/assets/images/011.png)
+![image](https://github.com/zcj298084359/Vue-travel/blob/master/src/assets/images/022.png)
+![image](https://github.com/zcj298084359/Vue-travel/blob/master/src/assets/images/033.png)
+![image](https://github.com/zcj298084359/Vue-travel/blob/master/src/assets/images/044.png)
+![image](https://github.com/zcj298084359/Vue-travel/blob/master/src/assets/images/055.png)
 
 ## 目录
 ```
